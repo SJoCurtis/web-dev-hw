@@ -1,10 +1,36 @@
 <!DOCTYPE html>
-<label for="username">Name: </label><input name="username" id="username" type="text" size="15" value="" /><br />
-
-<form id="mainform" enctype="multipart/form-data" action="/path/to/uploadhandler" method="post" >
-<label for="imageupload">Image file:</label>
-<input name="imageupload" id="imageupload" type="file" /><br />
-
-<label for="email">Email: </label><input name="email" id="email" type="text" size="15" value="" /><br />
-
-<input name="submit" id="submit" type="submit" value="submit" </form>
+<form action="/html/codes/html_form_handler.cfm" enctype="application/x-www-form-urlencoded" method="get">
+    <p>
+        <label>Name
+            <input name="customer_name" required="" type="text" /> </label>
+    </p>
+    <p>
+        <label>Email
+            <input name="email_address" type="email" /> </label>
+    </p>
+    <fieldset>
+        <legend><span style="font-family: helvetica;">How was your coffee?</span></legend>
+        <p>
+            <label>
+                <input name="coffee" required="" type="radio" value="good" /> <span style="font-family: helvetica;">Good </span></label>
+        </p>
+        <p>
+            <label>
+                <input name="coffee" required="" type="radio" value="ight" /> <span style="font-family: helvetica;">Ight</span> </label>
+        </p>
+        <p>
+            <label>
+                <input name="coffee" required="" type="radio" value="bleck" /> <span style="font-family: helvetica;">Bleck </span></label>
+        </p>
+    </fieldset>
+</form>
+<form id="mainform" action="/path/to/uploadhandler" enctype="multipart/form-data" method="post"><span style="font-family: helvetica;"><label for="imageupload">Image file:</label></span>
+    <input id="imageupload" name="imageupload" type="file" />
+    <p>
+        <button>Submit</button>
+    </p>
+</form>
+<ul>
+    <li><span style="font-family: helvetica;"><a href="instructions.html">Make More Dope Coffee?</a></span></li>
+    <li><span style="font-family: helvetica;"><a href="index.html">Back to Home</a></span></li>
+</ul>
