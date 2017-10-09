@@ -11,10 +11,10 @@ I enjoy doing this, i just gotta make it a goal.
 3. I really want this to look pretty darn decent and nice for a newb once I finish.
 
 ### Week Two
-*I am the worst at following rules.* I understand the world of academia and coding within academia is based in lots of rules, and yet I still try to break them. My largest struggle this week was my wish to do thing I shouldn't, and not wanting to do things I was told to do. Im just obstinate. Ultimately, I think I did a good job of following the rules, but Im not 100% sure.
+*I am the worst at following rules.* I understand the world of academia and coding within academia is based in lots of rules, and yet I still try to break them. My largest struggle this week was my wish to do thing I shouldn't, and not wanting to do things I was told to do. I'm just obstinate. Ultimately, I think I did a good job of following the rules, but Im not 100% sure.
 
 1. A triumph was actually managing my time and not have to crunch to finish this. I gave myself enough time.
 
 2. A struggle was photos, I have my photos saved in my photos folder. I just cant get them to work from there.
 
-3. I think my webpage is ugly, but it has a little more potential than it did prior to this week. 
+3. I think my webpage is ugly, but it has a little more potential than it did prior to this week.
