@@ -18,3 +18,6 @@ I enjoy doing this, i just gotta make it a goal.
 2. A struggle was photos, I have my photos saved in my photos folder. I just cant get them to work from there.
 
 3. I think my webpage is ugly, but it has a little more potential than it did prior to this week.
+
+### Week Three
+*I hate everything* So this has actually been the worst week. Like in so many different ways. I was behind, late, and stressed with everything. Finals. Bad personal life things. Meh. Shh. Not a fan of this week and this project was just an added stressor. But hey it done and its not on fire so theres that I guess. 
