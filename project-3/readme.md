@@ -28,4 +28,4 @@ The color palette I'm envisioning consists of blacks, grays, whites, and potenti
 Like so.
 
 Some Photos thats inspire me are below, sort of a mood board for the mood I wish to achieve.
-![red cyber](http://pre02.deviantart.net/a018/th/pre/f/2015/089/c/9/bio_bomb_by_scotchlover-d8nr68g.png) ![nother](https://68.media.tumblr.com/0ff85a915d86ca41bce97c16489a593e/tumblr_o3lw3plDGR1v6np6zo1_500.png) ![cant stop](https://pbs.twimg.com/media/CXg8iArUwAATJjX.jpg)
+![red cyber](http://pre02.deviantart.net/a018/th/pre/f/2015/089/c/9/bio_bomb_by_scotchlover-d8nr68g.png) ![nother](https://68.media.tumblr.com/0ff85a915d86ca41bce97c16489a593e/tumblr_o3lw3plDGR1v6np6zo1_500.png) ![cant stop](https://pbs.twimg.com/media/CXg8iArUwAATJjX.jpg) ![last one](https://hackadaycom.files.wordpress.com/2014/11/alienware1.png?w=800)
