@@ -25,3 +25,7 @@ For my sources and citations I will be using the [Wikipedia](https://en.wikipedi
 
 The color palette I'm envisioning consists of blacks, grays, whites, and potentially some red accents.
 ![Colors](http://www.color-hex.com/palettes/6391.png)
+Like so.
+
+Some Photos thats inspire me are below, sort of a mood board for the mood I wish to achieve.
+![red cyber](http://pre02.deviantart.net/a018/th/pre/f/2015/089/c/9/bio_bomb_by_scotchlover-d8nr68g.png) ![nother](https://68.media.tumblr.com/0ff85a915d86ca41bce97c16489a593e/tumblr_o3lw3plDGR1v6np6zo1_500.png) ![cant stop](https://pbs.twimg.com/media/CXg8iArUwAATJjX.jpg)
