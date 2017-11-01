@@ -21,4 +21,7 @@ for.
 >I am a hacker, and this is my manifesto.  You may stop this individual,
 but you can't stop us all... after all, we're all alike.
 
-For my sources and citations I will be using the [Wikipedia](https://en.wikipedia.org/wiki/Loyd_Blankenship) page for him and also the ezine [Phrack](http://phrack.org/issues/14/3.html#article), where he his manifesto was first published. 
+For my sources and citations I will be using the [Wikipedia](https://en.wikipedia.org/wiki/Loyd_Blankenship) page for him and also the ezine [Phrack](http://phrack.org/issues/14/3.html#article), where his manifesto was first published. Potentially other sites if I find some that are interesting to me.
+
+The color palette I'm envisioning consists of blacks, grays, whites, and potentially some red accents.
+![Colors]()
