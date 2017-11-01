@@ -3,7 +3,7 @@
 
 I would like to do a snippet/entire essay for this latest project.
 
-I would like to create a site for the essay *The Conscience of a Hacker*, by the handle The Mentor. I may or may not include the entire essay, I may just make one snippet of it be the main attraction and have the rest of it available to read elsewhere on the site. Or just do the whole essay. I haven't quite decided yet. But for assignments sake, and say I only choose to do a portion. This is the portion that I would do.
+I would like to create a site for the essay *The Conscience of a Hacker*, by Loyd Blankenship a.k.a The Mentor. I may or may not include the entire essay, I may just make one snippet of it be the main attraction and have the rest of it available to read elsewhere on the site. Or just do the whole essay. I haven't quite decided yet. But for assignments sake, and say I only choose to do a portion. This is the portion that I would do.
 
 > This is our world now... the world of the electron and the switch, the
 beauty of the baud.  We make use of a service already existing without paying
@@ -20,3 +20,5 @@ for.
 
 >I am a hacker, and this is my manifesto.  You may stop this individual,
 but you can't stop us all... after all, we're all alike.
+
+For my sources and citations I will be using the [Wikipedia](https://en.wikipedia.org/wiki/Loyd_Blankenship) page for him and also the ezine [Phrack](http://phrack.org/issues/14/3.html#article), where he his manifesto was first published. 
