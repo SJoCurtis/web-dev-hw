@@ -1,3 +1,8 @@
+
+.title {
+font-family:monospace;font-size:4em;font-variant:small-caps;letter-spacing:0.2em;line-height:1.3em;text-align:center;color:#FFFFFF;background-color:#000000;padding:0.1cm;
+}
+
 pre {
     background-color: #990000;
     color: black;
@@ -5,7 +10,7 @@ pre {
     padding-top: 5px;
     margin: 0px;
     text-align: center;
-    font-size: 12px;
+    font-size: 16px;
     text-decoration: none;
     overflow: hidden;
     -webkit-text-size-adjust: 100%
