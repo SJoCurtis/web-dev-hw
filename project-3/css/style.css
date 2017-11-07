@@ -1,35 +1,4 @@
-<style type="text/css" scoped>
-    .Text {
-        font-family: monospace;
-        font-size: 0.2in;
-        font-variant: small-caps;
-        letter-spacing: 0.1cm;
-        line-height: 0.2in;
-        text-align: center;
-        color: #990000;
-        background-color: #000000;
-        padding: 1.5in;
-    }
 
-</style>
-<style>
-    body {
-        background-color: #1a1a1a;
-        padding: 100px;
-    }
-</style>
-<style type="text/css" scoped>
-    .Text2 {
-        font-family: 'Courier New', monospace;
-        font-size: 0.4cm;
-        text-decoration: underline;
-        letter-spacing: 0.4em;
-        word-spacing: 0.2em;
-        line-height: 1.3em;
-        text-align: center;
-        color: #000000;
-        background-color: #990000;
-        padding: 0.4em;
-    }
-        
-</style>
+* {
+    font-family: 'Arvo';
+}
