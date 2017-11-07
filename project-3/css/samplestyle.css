@@ -1,10 +1,10 @@
 pre {
-    background-color:  #990000;
+    background-color: #990000;
     color: black;
     padding: 20px;
     padding-top: 5px;
     margin: 0px;
-    text-align: left;
+    text-align: center;
     font-size: 12px;
     text-decoration: none;
     overflow: hidden;
@@ -12,12 +12,12 @@ pre {
 }
 
 .opt, .opt-spe {
-    background-color: #FF6600;
+    background-color: #FFFFFF;
     color: #000;
     border-bottom: 1px solid black;
     padding: 4px;
     padding-left: 6px;
-    text-align: left
+    text-align: left;
 }
 
 .opt-spe {
@@ -30,5 +30,5 @@ pre {
     border-bottom: 1px solid black;
     padding: 4px;
     padding-left: 6px;
-    text-align: left
+    text-align:
 }
