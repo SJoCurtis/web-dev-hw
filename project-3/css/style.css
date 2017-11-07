@@ -1,4 +1,57 @@
-
-* {
-    font-family: 'Arvo';
+body {
+    background-color: #1a1a1a;
+    padding: 100px;
+}
+body {
+    margin: 0 auto;
+    width: -1040px;
+}
+.container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+.Text {
+    font-family: monospace;
+    font-size: 1cm;
+    text-decoration: underline;
+    letter-spacing: 0.4em;
+    word-spacing: 0.2em;
+    line-height: 1.3em;
+    text-align: center;
+    color: #000000;
+    background-color: #990000;
+    padding: 0.4em;
+}
+.Text2 {
+    font-family: monospace;
+    font-size: 0.2in;
+    font-variant: small-caps;
+    letter-spacing: 0.1cm;
+    line-height: 0.2in;
+    text-align: center;
+    color: #990000;
+    background-color: #000000;
+    padding: 1.5in;
+}
+.Text3 {
+    font-family: monospace;
+    font-size: 1cm;
+    letter-spacing: 0.4em;
+    word-spacing: 0.2em;
+    line-height: 1.3em;
+    text-align: center;
+    color: #990000;
+    background-color: #FFFFFF;
+    padding: 0.4em;
+}
+.Text4 {
+    font-family: 'Courier New', monospace;
+    font-variant: small-caps;
+    letter-spacing: 1cm;
+    line-height: 1.3em;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #990000;
+    padding: em;
 }
