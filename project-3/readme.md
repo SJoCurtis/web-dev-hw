@@ -32,5 +32,8 @@ Like so.
 Some Photos thats inspire me are below, sort of a mood board for the mood I wish to achieve.
 ![red cyber](http://pre02.deviantart.net/a018/th/pre/f/2015/089/c/9/bio_bomb_by_scotchlover-d8nr68g.png) ![last one](https://hackadaycom.files.wordpress.com/2014/11/alienware1.png?w=800) ![nother](https://68.media.tumblr.com/0ff85a915d86ca41bce97c16489a593e/tumblr_o3lw3plDGR1v6np6zo1_500.png) ![cant stop](https://pbs.twimg.com/media/CXg8iArUwAATJjX.jpg)
 
-### So yeah!
+#### So yeah!
 I'd like to make a nice cyberpunk looking website in tribute to ~~Loyd~~ The Mentor and his, at times pretentious, but also lovely ideas. This site is definitely going to appeal to a specific sub-culture, and it may be a bit more simplistic, but an intentional simplicity. No super flowery stuff.   
+
+### Week One on Project Three
+Essentially this has jus been time consuming. Also, I can't figure out how to wrap my photos so they stay static regardless of the window width/height. I still need to add some sources for the literature and I art Ive used. I also need to use stylesheets and external font links more often. I like the look of simple fonts and I have a tendency to use the <style> tag within my HTML more than actual style sheets which is bad I guess. Ultimately, its a work in progress and not at all what I'd like it to be.   
