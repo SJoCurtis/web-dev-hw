@@ -37,3 +37,6 @@ I'd like to make a nice cyberpunk looking website in tribute to ~~Loyd~~ The Men
 
 ### Week One on Project Three
 Essentially this has jus been time consuming. Also, I can't figure out how to wrap my photos so they stay static regardless of the window width/height. I still need to add some sources for the literature and I art Ive used. I also need to use stylesheets and external font links more often. I like the look of simple fonts and I have a tendency to use the <style> tag within my HTML more than actual style sheets which is bad I guess. Ultimately, its a work in progress and not at all what I'd like it to be.   
+
+### Week Two on Project Three
+This week was pretty easy, just a bit of refining. Messing around, seeing what I like and what I don't. It wasn't too hard, some things I couldn't quite get right, but overall I am liking the direction that this is headed. 
