@@ -1,104 +1,95 @@
-p{
+p {
     padding: 0 20px;
-    font-family:Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
     color: #FF0000;
     font-size: 20px;
     font-weight: 30;
-
 }
-
-h1{
+h1 {
     font-family: monospace, monospace;
     font-size: 45px;
     font-weight: 300;
-
 }
-
-h2{
+h2 {
     font-family: monospace, monospace;
     font-size: 40px;
     font-weight: 200;
 }
-
-h3{
+h3 {
     font-family: monospace, monospace;
     font-size: 30px;
     font-weight: 100;
 }
-
-h4{
-  font-family: monospace, monospace;
-  font-size: 45px;
-  font-weight: 300;
+h4 {
+    font-family: monospace, monospace;
+    font-size: 45px;
+    font-weight: 300;
 }
-
+.image img {
+    align-content: center;
+    height: auto;
+    max-width: 65%;
+    margin-bottom: 2em;
+    vertical-align: bottom
+}
 #main-container {
-	display: inline-flex;
-	flex-wrap: wrap;
+    display: inline-flex;
+    flex-wrap: wrap;
 }
-
 .black {
-	background-color:#000000;
-	width: 100%;
-	text-align: center;
-	order: 1;
-	outline: auto;
-  color: #FFFFFF;
-
+    background-color: #000000;
+    width: 100%;
+    text-align: center;
+    order: 1;
+    outline: auto;
+    color: #FFFFFF;
 }
-
 .darkgrey {
-	background-color:#262626;
-	width: 50%;
-	text-align: center;
-	order: 2;
-	align-content: center;
-	height: auto;
-  color: #FFFFFF;
-
+    background-color: #262626;
+    width: 50%;
+    text-align: center;
+    order: 2;
+    align-content: center;
+    height: auto;
+    color: #FFFFFF;
 }
-
 .lightergrey {
-	background-color:#4D4D4D;
-	width: 50%;
-	text-align: center;
-	order: 3;
-	height: auto;
-  color: #eff0eb;
-
+    background-color: #4D4D4D;
+    width: 50%;
+    text-align: center;
+    order: 3;
+    height: auto;
+    color: #eff0eb;
 }
-
 .lightestgrey {
-	background-color:#999999;
-	width: 100%;
-	text-align: center;
-	order: 4;
-  color: #eff0eb;
+    background-color: #999999;
+    width: 100%;
+    text-align: center;
+    order: 4;
+    color: #eff0eb;
 }
-
 .white {
-  background-color:#F7F7F7;
-  width: 100%;
-  text-align: center;
-  order: 5;
-  color: #000000;
+    background-color: #F7F7F7;
+    width: 100%;
+    text-align: center;
+    order: 5;
+    color: #000000;
 }
-
 }
 @media screen and (max-width: 800px) {
-	.black{
-		width: 100%;
-	}
+    .black {
+        width: 100%;
+    }
     .darkgrey {
-     	width: 100%;
-	}
-     .lightergrey {
         width: 100%;
-	}
-     .lightestgrey {
+    }
+    .lightergrey {
         width: 100%;
-	}
+    }
+    .lightestgrey {
+        width: 100%;
+    }
     .white {
-      width:100%
+        width: 100%
     }
 }
