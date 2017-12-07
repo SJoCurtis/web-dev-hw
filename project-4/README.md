@@ -13,7 +13,7 @@ As per usual, Im going to use primarily the monospace font. I just really like i
 Flexbox
 Inspiring RWD site links from AWWWARDS
 
-sThree Photos
+Three Photos
 - Two wireframe photos
 - One RWD photo
 
