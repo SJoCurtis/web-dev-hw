@@ -12,9 +12,11 @@ As per usual, Im going to use primarily the monospace font. I just really like i
 #### Content List
 Flexbox
 Inspiring RWD site links from AWWWARDS
-Three Photos
+
+sThree Photos
 - Two wireframe photos
 - One RWD photo
+
 Maybe:
 ![RWD](http://www.sacramentowebdesigngroup.com/wp-content/uploads/2013/03/responsive-website-design-1.jpg)
 #### Wireframe and Display
