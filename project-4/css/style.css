@@ -7,7 +7,6 @@ p{
 
 }
 
-
 h1{
     font-family: monospace, monospace;
     font-size: 45px;
@@ -37,7 +36,6 @@ h4{
 	display: inline-flex;
 	flex-wrap: wrap;
 }
-
 
 .black {
 	background-color:#000000;
@@ -85,7 +83,6 @@ h4{
   order: 5;
   color: #000000;
 }
-
 
 }
 @media screen and (max-width: 800px) {
